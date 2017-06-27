@@ -1,0 +1,101 @@
+﻿  fs.cpp
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(110): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(122): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(153): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(186): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(211): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(228): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(247): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(256): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(263): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(283): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(306): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(321): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(331): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(333): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(336): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(345): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(348): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(378): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(393): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(403): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(405): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(408): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(417): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(420): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(448): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(456): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(483): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(487): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(494): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(523): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(527): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(531): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(560): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(564): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(568): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(579): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(587): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(599): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(635): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(647): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(664): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(672): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(684): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(763): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(766): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(891): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(898): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(908): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(918): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(927): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(935): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(961): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(943): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'uint64_t'
+  c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(943): note: consider using '%lld' in the format string
+  c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(943): note: consider using '%I64d' in the format string
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(945): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Directory_t *'
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(993): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1004): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1040): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1043): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1050): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1073): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1077): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1096): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1099): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1109): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1112): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1126): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1127): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1138): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1153): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1161): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1190): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1208): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1214): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1223): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1267): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1278): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1280): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1302): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1309): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1362): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1369): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1377): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1385): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1429): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1435): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1444): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1452): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1482): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1560): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'uint64_t'
+  c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1560): note: consider using '%lld' in the format string
+  c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1560): note: consider using '%I64d' in the format string
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1739): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'uint32_t *'
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1745): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'uint32_t *'
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1760): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'uint32_t *'
+c:\users\ashish kumar singh\desktop\aqfs library\aqfs library\aqfs library\aqfs\fs.cpp(1788): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'uint32_t *'
+  AqFS Library.vcxproj -> C:\Users\Ashish Kumar SIngh\Desktop\AqFS Library\AqFS Library\Debug\AqFS Library.dll
+  AqFS Library.vcxproj -> C:\Users\Ashish Kumar SIngh\Desktop\AqFS Library\AqFS Library\Debug\AqFS Library.pdb (Partial PDB)
